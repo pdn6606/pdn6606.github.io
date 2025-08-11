@@ -1,6 +1,6 @@
 {
     "id": "info",
-    "icon": "./programs/info/icon.svg",
+    "icon": "https://pdn6606.github.io/programs/info/icon.svg",
     "desktop-icon-name": "Info",
     "window-name": ".pdn_",
     "resizable": false,
