@@ -1,6 +1,6 @@
 {
     "id": "notepad",
-    "icon": "./programs/note/icon.svg",
+    "icon": "https://pdn6606.github.io/programs/note/icon.svg",
     "desktop-icon-name": "Notepad",
     "window-name": "Notepad",
     "resizable": true,
