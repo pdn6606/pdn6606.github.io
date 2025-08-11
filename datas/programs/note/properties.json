@@ -1,0 +1,14 @@
+{
+    "id": "notepad",
+    "icon": "./programs/note/icon.svg",
+    "desktop-icon-name": "Notepad",
+    "window-name": "Notepad",
+    "resizable": true,
+    "draggable": true,
+    "multi-instance": true,
+    "position": {
+        "top": "100px",
+        "left": "100px",
+        "width": "600px"
+    }
+}
