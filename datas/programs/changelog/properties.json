@@ -5,11 +5,11 @@
     "window-name": "Changelog",
     "resizable": true,
     "draggable": true,
-    "multi-instance": true,
+    "multi-instance": false,
     "position": {
         "top": "100px",
         "left": "100px",
         "width": "600px",
-        "height": "300px"
+        "height": "400px"
     }
 }
