@@ -1,0 +1,15 @@
+{
+    "id": "changelog",
+    "icon": "https://pdn6606.github.io/programs/note/icon.svg",
+    "desktop-icon-name": "Changelog",
+    "window-name": "Changelog",
+    "resizable": true,
+    "draggable": true,
+    "multi-instance": true,
+    "position": {
+        "top": "100px",
+        "left": "100px",
+        "width": "600px",
+        "height": "300px"
+    }
+}
